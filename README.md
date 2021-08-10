@@ -1,2 +1,3 @@
 # hello-world
 My first repository, I hope it will not be the only one...
+Trying not to lose my focus and drive.
